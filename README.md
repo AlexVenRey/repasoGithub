@@ -12,3 +12,11 @@ __Este texto aparece en negrita__
 
 1. TITULO 1
 2. TITULO 2
+
+1. Primer elemento lista ordenada
+2. Segundo elemento lista ordenada
+3. Tercer elemento lista ordenada
+
+* Primer elemento lista desordenada
+* Segundo elemento lista desordenada 
+
