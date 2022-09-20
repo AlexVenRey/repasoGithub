@@ -28,7 +28,7 @@ __Este texto aparece en negrita__
   
   [Enlace a wikipedia](https://www.wikipedia.org/ "Haciendo clic vas a la foto")
   
-![FOTO DE MESSI](https://github.com/AlexVenRey/repasoGithub/blob/main/FOTO%20MESSI.htm "Haciendo clic vas a la foto")
+![FOTO FUTBOL]( "Haciendo clic vas a la foto")
 
 | Encabezado1 | Encabezado2 | Encabezado3 |
 | ----------- | :---------: | ----------: |
