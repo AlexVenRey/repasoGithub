@@ -28,4 +28,4 @@ __Este texto aparece en negrita__
   
   [https://www.wikipedia.org/] (URL "Enlace a wikipedia")
   
-![FOTO DE MESSI](https://github.com/AlexVenRey/repasoGithub/blob/main/FOTO%20MESSI.htm) "Haciendo clic vas a la foto")
+![FOTO DE MESSI](https://github.com/AlexVenRey/repasoGithub/blob/main/FOTO%20MESSI.htm "Haciendo clic vas a la foto")
