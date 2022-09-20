@@ -28,4 +28,4 @@ __Este texto aparece en negrita__
   
   [https://www.wikipedia.org/] (URL "Enlace a wikipedia")
   
-![FOTO] 
+![] 
