@@ -26,6 +26,6 @@ __Este texto aparece en negrita__
   <head>
   </head>
   
-  [https://www.wikipedia.org/] (URL "Enlace a wikipedia")
+  [Enlace a wikipedia](https://www.wikipedia.org/ "Haciendo clic vas a la foto")
   
 ![FOTO DE MESSI](https://github.com/AlexVenRey/repasoGithub/blob/main/FOTO%20MESSI.htm "Haciendo clic vas a la foto")
