@@ -29,3 +29,10 @@ __Este texto aparece en negrita__
   [Enlace a wikipedia](https://www.wikipedia.org/ "Haciendo clic vas a la foto")
   
 ![FOTO DE MESSI](https://github.com/AlexVenRey/repasoGithub/blob/main/FOTO%20MESSI.htm "Haciendo clic vas a la foto")
+
+| Encabezado1 | Encabezado2 | Encabezado3 |
+| ----------- | :---------: | ----------: |
+| Item1       | Bolígrafos | 20€ |
+| Item2       | Grapadora    | 50€ |
+| Item3 | Lapizes | 10€ |
+
